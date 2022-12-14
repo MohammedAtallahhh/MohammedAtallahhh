@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Frontend React developer</h1>
 <h3 align="center">An aspiring software engineer and a lifelong learner</h3>
 
-- 🔭 I’m currently working on [and Instagram clone](https://github.com/MohammedAtallahhh/instagram-clone)
+- 🔭 I’m currently working on [Instagram clone](https://github.com/MohammedAtallahhh/instagram-clone)
 
 - 🌱 I’m currently learning **Nextjs, TypeScript, unit testing**
 
